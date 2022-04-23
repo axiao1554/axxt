@@ -47,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://axxt.axiao.vip/adobe_plugins_p</loc>
-    
-    <lastmod>2022-04-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://axxt.axiao.vip/adobe_m1_pc</loc>
     
     <lastmod>2022-04-23</lastmod>
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://axxt.axiao.vip/adobe_win_issue2</loc>
+    <loc>https://axxt.axiao.vip/adobe_plugins_p</loc>
     
     <lastmod>2022-04-23</lastmod>
     
@@ -93,6 +84,15 @@
   
   <url>
     <loc>https://axxt.axiao.vip/adobe_m1_key</loc>
+    
+    <lastmod>2022-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://axxt.axiao.vip/adobe_win_issue2</loc>
     
     <lastmod>2022-04-23</lastmod>
     
